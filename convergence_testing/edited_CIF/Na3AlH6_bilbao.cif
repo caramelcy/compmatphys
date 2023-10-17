@@ -1,0 +1,44 @@
+data_generated_by_bilbao_crystallographic_server
+
+_cell_length_a                   5.29339841 
+_cell_length_b                   5.49020829 
+_cell_length_c                   9.27667346 
+_cell_angle_alpha                90.00000000 
+_cell_angle_beta                 124.77562218 
+_cell_angle_gamma                90.00000000        
+_symmetry_space_group_name_H-M   'P1' 
+_symmetry_Int_Tables_number      1 
+
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1    'x,y,z'
+
+loop_
+_atom_site_label 
+_atom_site_type_symbol 
+_atom_site_symmetry_multiplicity 
+_atom_site_Wyckoff_symbol 
+_atom_site_fract_x 
+_atom_site_fract_y 
+_atom_site_fract_z 
+Na0   Na 1 a    0.50000  0.50000  0.00000
+Na1   Na 1 a    0.50000  0.00000  0.50000
+Na2   Na 1 a    0.75764  0.45272  0.74647
+Na3   Na 1 a    0.24236  0.95272  0.75353
+Na4   Na 1 a    0.24236  0.54728  0.25353
+Na5   Na 1 a    0.75764  0.04728  0.24647
+Al6   Al 1 a    0.00000  0.50000  0.50000
+Al7   Al 1 a    0.00000  0.00000  0.00000
+H8     H 1 a    0.90169  0.26724  0.06298
+H9     H 1 a    0.09831  0.76724  0.43702
+H10    H 1 a    0.09831  0.73276  0.93702
+H11    H 1 a    0.90169  0.23276  0.56298
+H12    H 1 a    0.22851  0.33028  0.45655
+H13    H 1 a    0.77148  0.83028  0.04344
+H14    H 1 a    0.77148  0.66972  0.54344
+H15    H 1 a    0.22851  0.16972  0.95656
+H16    H 1 a    0.68375  0.45230  0.28326
+H17    H 1 a    0.31625  0.95230  0.21674
+H18    H 1 a    0.31625  0.54770  0.71674
+H19    H 1 a    0.68375  0.04770  0.78326
