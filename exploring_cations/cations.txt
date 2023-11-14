@@ -1,0 +1,6 @@
+https://next-gen.materialsproject.org/materials/mp-27653?formula=LiAlH4
+https://next-gen.materialsproject.org/materials/mp-31097?formula=KAlH4
+https://next-gen.materialsproject.org/materials/mp-1209241?formula=RbAlH4
+https://next-gen.materialsproject.org/materials/mp-23703?formula=LiH
+https://next-gen.materialsproject.org/materials/mp-24084?formula=KH
+https://next-gen.materialsproject.org/materials/mp-24721?formula=RbH
