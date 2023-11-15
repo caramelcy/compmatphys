@@ -1,0 +1,40 @@
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_cell_length_a     4.8619090000
+_cell_length_b     7.8247000000
+_cell_length_c     7.8700468000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta   111.8050556000
+_cell_angle_gamma  90.0000000000
+_cell_volume       277.9788705637
+
+_symmetry_space_group_name_Hall "-P 2ybc"
+_symmetry_Int_Tables_number 14
+_space_group.reference_setting '014:-P 2ybc'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_fract_symmform
+Li1 Li   4 e -0.07069  0.53523  0.17566  1.00000 Dx,Dy,Dz 
+Al1 Al   4 e  0.63975  0.20216 -0.06769  1.00000 Dx,Dy,Dz 
+H1  H    4 e  0.68243  0.09904  0.76431  1.00000 Dx,Dy,Dz 
+H2  H    4 e  0.70188  0.73598  0.12762  1.00000 Dx,Dy,Dz 
+H3  H    4 e  0.73820  0.08259  0.11422  1.00000 Dx,Dy,Dz 
+H4  H    4 e  0.85380  0.12799  0.47777  1.00000 Dx,Dy,Dz 
