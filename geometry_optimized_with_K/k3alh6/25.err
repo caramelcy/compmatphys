@@ -1,0 +1,57 @@
+Loading compiler version 2022.0.2
+  Load "debugger" to debug DPC++ applications with the gdb-oneapi debugger.
+  Load "dpl" for additional DPC++ APIs: https://github.com/oneapi-src/oneDPL
+Loading mpi version 2021.5.1
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda deactivate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda deactivate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+
+Please source spack 
+
+
+For better command line support, copy and paste the folowing,
+ which will source the spack setup script:
+
+source /home/apps/spack/share/spack/setup-env.sh
+
+spack load intel-oneapi-compilers@2021.4.0
+
+spack load intel-oneapi-mpi@2021.4.0/mcqtyog
+
+spack load intel-oneapi-mkl@2021.4.0/riaxxxt
+
